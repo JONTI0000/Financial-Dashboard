@@ -47,7 +47,7 @@ google_sheets_link = st.text_input('Google Sheet Link')
 if google_sheets_link == "":
     st.write("Enter Google Sheets link")
 else:
-    link = re.sub(r'/edit\?usp=sharing$', '/export?format=csv', google_sheets_link)
+    link = re.sub(r'/edit\?usp=(sharing|drivesdk)$', '/export?format=csv', google_sheets_link)
     try:
         df = pd.read_csv(link)
         if df is None:
