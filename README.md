@@ -9,6 +9,7 @@ In order to access the financial dashboard go to the  <a href = "https://transac
 steps in order to use the dashboard
 <ol>
 <li> maintain a google sheet with the following columns <ul>
+  <b> or alternatively copy the format of this google sheets <a href="https://docs.google.com/spreadsheets/d/1EXq1NzrezQE4lIneJK2sQ3JZIdgQGFMNC5fbh9BmaZA/edit?usp=sharing"> link</a>
   <li>date (month/date/year) or just ctrl + ; to input the current date </li>
   <li>Details</li>
   <li>entry_type (either debit or credit)</li>
