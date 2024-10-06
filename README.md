@@ -8,7 +8,7 @@ In order to access the financial dashboard go to the  <a href = "https://transac
 
 steps in order to use the dashboard
 <br>
-  <b> or alternatively copy the format of this google sheets <a href="https://docs.google.com/spreadsheets/d/1EXq1NzrezQE4lIneJK2sQ3JZIdgQGFMNC5fbh9BmaZA/edit?usp=sharing"> link</a>
+  <b> or alternatively copy the format of this google sheets <a href="https://docs.google.com/spreadsheets/d/1w7B5g_cPkG5OEC6QxpI4uUjINaxuA0qanNwJat7FIXM/edit?usp=sharing"> link</a>
 
 <ol>
 <li> maintain a google sheet with the following columns <ul>
